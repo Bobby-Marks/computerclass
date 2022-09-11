@@ -1,2 +1,1 @@
-# computer 
-class
+# computer class
